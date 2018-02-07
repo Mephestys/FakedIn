@@ -1,17 +1,17 @@
 const dummyData = [
   {
-    avatar: "",
-    name: "Fakename McNotrealguy",
+    avatar: "./img/avatar1.jpeg",
+    name: "Fakename McNotreal",
     title: "Nonexistant being",
   },
   {
-    avatar: "",
+    avatar: "./img/avatar2.jpeg",
     name: "Alsonot Realperson",
-    title: "Madeup at Fakebusiness",
+    title: "Freaky goomba",
   },
   {
-    avatar: "",
-    name: "Badat Comingupwithnames",
-    title: "Professional void of consciousness.",
+    avatar: "./img/avatar3.jpg",
+    name: "Rocket Roo",
+    title: "Probably a cat",
   },
 ]
