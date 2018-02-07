@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "./components/Navbar/Navbar.js";
+import NavigationBar from "./components/NavigationBar/NavigationBar.js";
 import TopAds from "./components/TopAds/TopAds.js";
 import YourConnections from "./components/YourConnections/YourConnections.js";
 import Invitations from "./components/Invitations/Invitations.js";
@@ -12,7 +12,9 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <i class="material-icons">thumb_up</i>
+        <div>
+          <NavigationBar />
+        </div>
       </div>
     );
   }
