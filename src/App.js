@@ -19,7 +19,7 @@ class App extends React.Component {
         <div>
           <NavigationBar />
         </div>
-        <div>
+        <div className="ConnectionsSection">
           <Connections />
         </div>
       </div>

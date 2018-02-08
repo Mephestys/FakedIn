@@ -1,0 +1,19 @@
+.NavigationBar {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: lightsteelblue;
+}
+
+.NavigationBar .Searchbar {
+  background-color: white;
+}
+
+.NavigationBar .Apps {
+  /*margin: 0 0 0 40%;*/
+}
+
+.NavigationBar .material-icons {
+  margin: 10px;
+}
