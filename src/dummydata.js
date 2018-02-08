@@ -14,6 +14,11 @@ const dummyData = [
     name: "Rocket Roo",
     title: "Probably a cat",
   },
+  {
+    avatar: "./img/default.jpg",
+    name: "Second Row Tester",
+    title: "Testing a second row of cards.",
+  },
 ]
 
 export default dummyData;
