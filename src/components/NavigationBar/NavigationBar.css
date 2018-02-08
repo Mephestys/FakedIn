@@ -16,6 +16,7 @@
 
 .NavigationBar .material-icons {
   margin: 10px;
+  font-size: 30px;
   cursor: pointer;
   user-select: none;
 }
