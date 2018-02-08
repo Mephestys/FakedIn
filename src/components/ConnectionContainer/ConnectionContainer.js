@@ -17,7 +17,7 @@ const ConnectionContainer = props => {
         {connection.title}
       </div>
       <div className="ConnectionContainer ConnectButtonContainer">
-        <button className="ConnectionContainer ConnectButton" type="submit">Connect</button>
+        <button className="ConnectionContainer ConnectButtonContainer ConnectButton" type="submit">Connect</button>
       </div>
     </div>
   )
