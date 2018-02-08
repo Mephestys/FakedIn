@@ -7,15 +7,15 @@ class NavigationBar extends React.Component {
     return (
       <Navbar>
         <NavbarBrand>
-          <i class="material-icons">thumb_up</i>
+          <i className="material-icons">thumb_up</i>
           <input type="text" placeholder="Search"></input>
-          <i class="material-icons">home</i>
-          <i class="material-icons">people</i>
-          <i class="material-icons">business_center</i>
-          <i class="material-icons">chat</i>
-          <i class="material-icons">notifications</i>
+          <i className="material-icons">home</i>
+          <i className="material-icons">people</i>
+          <i className="material-icons">business_center</i>
+          <i className="material-icons">chat</i>
+          <i className="material-icons">notifications</i>
           Avatar
-          <i class="material-icons">apps</i>
+          <i className="material-icons">apps</i>
         </NavbarBrand>
       </Navbar>
     )

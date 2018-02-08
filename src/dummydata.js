@@ -2,7 +2,7 @@ const dummyData = [
   {
     avatar: "./img/avatar1.jpeg",
     name: "Fakename McNotreal",
-    title: "Nonexistant being",
+    title: "Nonexistant CGI-generated being",
   },
   {
     avatar: "./img/avatar2.jpeg",
@@ -15,3 +15,5 @@ const dummyData = [
     title: "Probably a cat",
   },
 ]
+
+export default dummyData;
