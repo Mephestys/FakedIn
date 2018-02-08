@@ -9,7 +9,7 @@ class NavigationBar extends React.Component {
       <div className="NavigationBar">
           <i className="NavigationBar material-icons">thumb_up</i>
           <form>
-            <input className="NavigationBar Searchbar" type="text" placeholder="Search"></input>
+            <input className="NavigationBar Searchbar" type="text" placeholder=" Search"></input>
           </form>
           <i className="NavigationBar material-icons">home</i>
           <i className="NavigationBar material-icons">people</i>
