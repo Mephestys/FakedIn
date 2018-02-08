@@ -6,6 +6,57 @@
   width: 100%;
   height: 100%;
   background-color: white;
-  border: 1px solid rgba(0,0,0,0.2);
-  box-shadow: 1px 2px rgba(0,0,0,0.2);
+
+}
+
+.YourConnections .ConnectionsNumber {
+  font-size: 36px;
+  color: steelblue;
+}
+
+.YourConnections .YourConnectionsText {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.YourConnections .SeeAll {
+  font-size: 12px;
+  font-weight: bold;
+  color: steelblue;
+}
+
+.YourConnections .AvatarRow {
+  margin: 8px;
+  border-bottom: 2px solid rgba(0,0,0,0.1);
+}
+
+.YourConnections .EmailForm {
+  margin-bottom: 3px;
+}
+
+.YourConnections .EmailForm .EmailBar {
+  font-size: 14px;
+  padding: 3px;
+  width: 90%;
+}
+
+.YourConnections .ContinueSection .ContinueButton {
+  width: 90%;
+  border: 1px solid steelblue;
+  color: steelblue;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.YourConnections .MoreOptions {
+  margin: 10px;
+  font-size: 14px;
+}
+
+.YourConnections .ImportInfo {
+  border-top: 2px solid rgba(0,0,0,0.1);
+  background-color: rgba(0,0,0,0.05);
+  color: rgba(0,0,0,0.5);
+  padding: 10px;
+  font-size: 12px;
 }

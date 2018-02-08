@@ -12,6 +12,7 @@
   text-align: center;
   background: white;
   list-style: none;
+  user-select: none;
 }
 
 .ConnectionContainer:hover {
@@ -25,6 +26,7 @@
   align-self: flex-end;
   margin: 2px;
   background-color: transparent;
+  cursor: pointer;
 }
 
 .ConnectionContainer .AvatarContainer {

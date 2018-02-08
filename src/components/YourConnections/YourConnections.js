@@ -21,11 +21,12 @@ class YourConnections extends React.Component {
         <div className="YourConnections YourConnectionsText">
           Add personal contacts
         </div>
-        <form className="YourConnections EmailBar">
-          <input />
+        <form className="YourConnections EmailForm">
+          <input className="YourConnections EmailForm EmailBar" placeholder="you@your-email.com"/>
         </form>
-        <div>
-          <button>
+        <div className="YourConnections ContinueSection">
+          <button className="YourConnections ContinueSection ContinueButton">
+            Continue
           </button>
         </div>
         <div className="YourConnections MoreOptions">
