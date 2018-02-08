@@ -11,6 +11,7 @@
   align-items: center;
   text-align: center;
   background: white;
+  list-style: none;
 }
 
 .ConnectionContainer:hover {

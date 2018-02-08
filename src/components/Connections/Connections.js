@@ -15,13 +15,24 @@ class Connections extends React.Component {
     })
   }
 
+  removeConnection = id => {
+    const newConnections = this.state.connections.filter(connection => {
+      return connection.id !== id;
+    });
+    this.setState({ connections: newConnections });
+  };
+
   render() {
     return (
       <div className="Connections">
         {this.state.connections.map((connection, index) => {
           return (
             <div key={index}>
-              <ConnectionContainer connection={connection}/>
+              <ConnectionContainer 
+              connection={connection}
+              id={index}
+              removeConnection={this.removeConnection}
+              />
             </div>
           )
         })}

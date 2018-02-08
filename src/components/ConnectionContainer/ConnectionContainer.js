@@ -4,11 +4,13 @@ import "./ConnectionContainer.css";
 
 const ConnectionContainer = props => {
   const connection = props.connection;
+  console.log(connection);
   
   return (
     <div className="ConnectionContainer">
     <div className="ConnectionContainer RemoveButtonContainer">
-      <button className="ConnectionContainer RemoveButtonContainer" onclick={props.deleteConnection}>x</button>
+      <button className="ConnectionContainer RemoveButtonContainer" 
+      onClick={() => {props.removeConnection(connection.id);}}>x</button>
     </div> 
       <div className="ConnectionContainer AvatarContainer">
         <img className="ConnectionContainer Avatar" src={connection.avatar} alt="Avatar failed to load." />
