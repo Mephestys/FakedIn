@@ -1,12 +1,10 @@
 import React from 'react';
-import { Navbar, NavbarBrand } from 'react-bootstrap';
 
 class NavigationBar extends React.Component {
 
   render() {
     return (
-      <Navbar>
-        <NavbarBrand>
+      <div>
           <i className="material-icons">thumb_up</i>
           <input type="text" placeholder="Search"></input>
           <i className="material-icons">home</i>
@@ -16,8 +14,7 @@ class NavigationBar extends React.Component {
           <i className="material-icons">notifications</i>
           Avatar
           <i className="material-icons">apps</i>
-        </NavbarBrand>
-      </Navbar>
+      </div>
     )
   }
 }

@@ -1,3 +1,4 @@
 .App {
-  display: initial;
+  display: flex;
+  flex-flow: column nowrap;
 }

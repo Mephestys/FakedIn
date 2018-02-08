@@ -1,5 +1,4 @@
 import React from "react";
-import { Grid, Row, Col, Clearfix } from "react-bootstrap";
 import NavigationBar from "./components/NavigationBar/NavigationBar.js";
 import TopAds from "./components/TopAds/TopAds.js";
 import YourConnections from "./components/YourConnections/YourConnections.js";

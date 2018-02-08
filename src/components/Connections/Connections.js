@@ -19,13 +19,13 @@ class Connections extends React.Component {
       <div>
         {this.state.connections.map((connection, index) => {
           return (
-            <Grid>
-              <Row>
-                <Col key={index}>
+            <div>
+              <div>
+                <div key={index}>
                   <ConnectionContainer connection={connection}/>
-                </Col>
-              </Row>
-            </Grid>
+                </div>
+              </div>
+            </div>
           )
         })}
       </div>
