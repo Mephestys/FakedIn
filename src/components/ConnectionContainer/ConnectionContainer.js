@@ -7,6 +7,9 @@ const ConnectionContainer = props => {
   
   return (
     <div className="ConnectionContainer">
+    <div className="ConnectionContainer RemoveButtonContainer">
+      <button className="ConnectionContainer RemoveButtonContainer" onclick={props.deleteConnection}>x</button>
+    </div> 
       <div className="ConnectionContainer AvatarContainer">
         <img className="ConnectionContainer Avatar" src={connection.avatar} alt="Avatar failed to load." />
       </div>

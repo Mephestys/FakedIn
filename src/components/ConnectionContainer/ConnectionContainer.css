@@ -10,7 +10,15 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  background: orange;
+  background: white;
+}
+
+.ConnectionContainer .RemoveButtonContainer {
+  width: 16px;
+  height: 16px;
+  border: 0px;
+  align-self: flex-end;
+  margin: 2px;
 }
 
 .ConnectionContainer .AvatarContainer {
@@ -36,6 +44,7 @@
 
 .ConnectionContainer .ConnectionTitle {
   font-size: 12px;
+  color: rgba(0, 0, 0, 0.7);
   width: 95%;
   height: 40px;
   border: 0px;
@@ -53,7 +62,7 @@
 .ConnectionContainer .ConnectButtonContainer .ConnectButton {
   height: 30px;
   width: 90px;
-  background-color: white;
+  background-color: lightsteelblue;
   font-size: 14px;
   font-weight: bold;
 }

@@ -9,7 +9,7 @@ class Connections extends React.Component {
     connections: [],
   };
 
-  componentWillMount() {
+  componentDidMount() {
     this.setState({
       connections: dummyData,
     })

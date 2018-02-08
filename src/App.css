@@ -9,6 +9,7 @@
 }
 
 .App .NavigationBarSection {
+  display: flex;
   flex-flow: column nowrap;
   width: 100%;
 }

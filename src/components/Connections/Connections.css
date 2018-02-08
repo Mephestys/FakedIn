@@ -3,7 +3,7 @@
   max-width: 500px;
   display: flex;
   flex-flow: row wrap;
-  background-color: pink;
+  background-color: white;
   padding: 0;
   justify-content: flex-start;
 }

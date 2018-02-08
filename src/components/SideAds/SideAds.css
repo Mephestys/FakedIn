@@ -1,5 +1,11 @@
 .SideAds {
+  display: flex;
+  flex-flow: column nowrap;
   width: 100%;
   height: 100%;
-  background-color: purple;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  border: 1px solid black;
+  box-shadow: 3px 3px rgba(0,0,0,0.2);
 }
