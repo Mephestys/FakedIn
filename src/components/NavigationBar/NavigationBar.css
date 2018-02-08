@@ -7,11 +7,13 @@
 }
 
 .NavigationBar .Searchbar {
-  background-color: white;
+  background-color: rgb(245, 245, 245);
 }
 
-.NavigationBar .Apps {
-  /*margin: 0 0 0 40%;*/
+.NavigationBar .Avatar {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
 }
 
 .NavigationBar .material-icons {

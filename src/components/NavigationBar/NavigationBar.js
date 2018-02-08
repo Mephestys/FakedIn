@@ -17,7 +17,7 @@ class NavigationBar extends React.Component {
           <i className="NavigationBar material-icons">chat</i>
           <i className="NavigationBar material-icons">notifications</i>
           <div className="NavigationBar Avatar">
-            Avatar
+            <img className="NavigationBar Avatar" src="./img/default.jpg" height="32" width="32" />
           </div>
           <div className="NavigationBar Apps">
             <i className="NavigationBar material-icons">apps</i>
