@@ -1,7 +1,8 @@
 import React from 'react';
 import dummyData from "../../dummydata.js";
-import { Grid, Row, Col, Clearfix } from "react-bootstrap";
 import ConnectionContainer from '../ConnectionContainer/ConnectionContainer.js'
+
+import "./Connections.css";
 
 class Connections extends React.Component {
   state = {
@@ -16,15 +17,11 @@ class Connections extends React.Component {
 
   render() {
     return (
-      <div>
+      <div className="Connections">
         {this.state.connections.map((connection, index) => {
           return (
-            <div>
-              <div>
-                <div key={index}>
-                  <ConnectionContainer connection={connection}/>
-                </div>
-              </div>
+            <div key={index}>
+              <ConnectionContainer connection={connection}/>
             </div>
           )
         })}

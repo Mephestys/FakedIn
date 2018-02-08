@@ -1,0 +1,9 @@
+.Connections {
+  width: 100%;
+  max-width: 600px;
+  display: flex;
+  flex-flow: row wrap;
+  background-color: pink;
+  padding: 20px;
+  justify-content: center;
+}
