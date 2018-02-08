@@ -16,11 +16,22 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <div>
+        <div className="App NavigationBarSection">
           <NavigationBar />
         </div>
-        <div className="ConnectionsSection">
-          <Connections />
+        <div className="App TopAdsSection">
+          <TopAds />
+        </div>
+        <div className="App MainSection">
+          <div className="App YourConnectionsSection">
+            <YourConnections />
+          </div>
+          <div className="App ConnectionsSection">
+            <Connections />
+          </div>
+          <div className="App SideAdsSection">
+            <SideAds />
+          </div>
         </div>
       </div>
     );

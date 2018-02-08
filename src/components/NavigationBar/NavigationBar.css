@@ -16,9 +16,17 @@
   border-radius: 50%;
 }
 
+.NavigationBar .Apps {
+  align-self: flex-end;
+}
+
 .NavigationBar .material-icons {
   margin: 10px;
   font-size: 30px;
   cursor: pointer;
   user-select: none;
+}
+
+.divider {
+  border: 20px solid black;
 }
