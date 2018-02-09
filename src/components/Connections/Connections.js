@@ -1,8 +1,8 @@
 import React from 'react';
-import dummyData from "../../dummydata.js";
 import ConnectionContainer from '../ConnectionContainer/ConnectionContainer.js'
 
 import "./Connections.css";
+const dummyData = require("../../dummydata.json");
 
 class Connections extends React.Component {
   state = {

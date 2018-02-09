@@ -1,0 +1,240 @@
+[
+  {
+    "id": 1,
+    "avatar": "./img/avatar1.jpeg",
+    "name": "Nota Realperson",
+    "title": "Nonexistant CGI-generated being",
+    "business": "FakeCo"
+  },
+  {
+    "id": 2,
+    "avatar": "./img/avatar2.jpeg",
+    "name": "Fakeish Nonexisty",
+    "title": "Freaky goomba",
+    "business": "Unemployed"
+  },
+  {
+    "id": 3,
+    "avatar": "./img/avatar3.jpg",
+    "name": "Rocket Roo",
+    "title": "Probably a cat",
+    "business": "Being a Cat Co"
+  },
+  {
+    "id": 4,
+    "avatar": "./img/default.jpg",
+    "name": "Second Row Tester",
+    "title": "Testing a second row of cards.",
+    "business": "FakeCo"
+  },
+  {
+    "id": 5,
+    "avatar": "./img/default.jpg",
+    "name": "Carolina Goodman",
+    "title": "Job Title",
+    "business": "INTRADISK"
+  },
+  {
+    "id": 6,
+    "avatar": "./img/default.jpg",
+    "name": "Margo Clayton",
+    "title": "Job Title",
+    "business": "BIZMATIC"
+  },
+  {
+    "id": 7,
+    "avatar": "./img/default.jpg",
+    "name": "Corine Gregory",
+    "title": "Job Title",
+    "business": "SPACEWAX"
+  },
+  {
+    "id": 8,
+    "avatar": "./img/default.jpg",
+    "name": "Jacobson Soto",
+    "title": "Job Title",
+    "business": "VERAQ"
+  },
+  {
+    "id": 9,
+    "avatar": "./img/default.jpg",
+    "name": "Thelma Flowers",
+    "title": "Job Title",
+    "business": "APPLIDECK"
+  },
+  {
+    "id": 10,
+    "avatar": "./img/default.jpg",
+    "name": "Pruitt Kent",
+    "title": "Job Title",
+    "business": "EXERTA"
+  },
+  {
+    "id": 11,
+    "avatar": "./img/default.jpg",
+    "name": "Stanley Alford",
+    "title": "Job Title",
+    "business": "POLARIUM"
+  },
+  {
+    "id": 12,
+    "avatar": "./img/default.jpg",
+    "name": "Noel William",
+    "title": "Job Title",
+    "business": "UNIA"
+  },
+  {
+    "id": 13,
+    "avatar": "./img/default.jpg",
+    "name": "Miles Hobbs",
+    "title": "Job Title",
+    "business": "GEOFARM"
+  },
+  {
+    "id": 14,
+    "avatar": "./img/default.jpg",
+    "name": "Judy Meadows",
+    "title": "Job Title",
+    "business": "KANGLE"
+  },
+  {
+    "id": 15,
+    "avatar": "./img/default.jpg",
+    "name": "Amparo Padilla",
+    "title": "Job Title",
+    "business": "LOCAZONE"
+  },
+  {
+    "id": 16,
+    "avatar": "./img/default.jpg",
+    "name": "Leola Burris",
+    "title": "Job Title",
+    "business": "BEZAL"
+  },
+  {
+    "id": 17,
+    "avatar": "./img/default.jpg",
+    "name": "Wong Peck",
+    "title": "Job Title",
+    "business": "LIQUICOM"
+  },
+  {
+    "id": 18,
+    "avatar": "./img/default.jpg",
+    "name": "Marquita Lowe",
+    "title": "Job Title",
+    "business": "AEORA"
+  },
+  {
+    "id": 19,
+    "avatar": "./img/default.jpg",
+    "name": "Lacy Townsend",
+    "title": "Job Title",
+    "business": "AUTOMON"
+  },
+  {
+    "id": 20,
+    "avatar": "./img/default.jpg",
+    "name": "Young Reilly",
+    "title": "Job Title",
+    "business": "TROLLERY"
+  },
+  {
+    "id": 21,
+    "avatar": "./img/default.jpg",
+    "name": "Winnie Kane",
+    "title": "Job Title",
+    "business": "PLAYCE"
+  },
+  {
+    "id": 22,
+    "avatar": "./img/default.jpg",
+    "name": "Clayton Tate",
+    "title": "Job Title",
+    "business": "FISHLAND"
+  },
+  {
+    "id": 23,
+    "avatar": "./img/default.jpg",
+    "name": "Jan Gray",
+    "title": "Job Title",
+    "business": "EVEREST"
+  },
+  {
+    "id": 24,
+    "avatar": "./img/default.jpg",
+    "name": "Finch Travis",
+    "title": "Job Title",
+    "business": "TERRASYS"
+  },
+  {
+    "id": 25,
+    "avatar": "./img/default.jpg",
+    "name": "Lourdes Holder",
+    "title": "Job Title",
+    "business": "VISALIA"
+  },
+  {
+    "id": 26,
+    "avatar": "./img/default.jpg",
+    "name": "Blackburn Gillespie",
+    "title": "Job Title",
+    "business": "POLARAX"
+  },
+  {
+    "id": 27,
+    "avatar": "./img/default.jpg",
+    "name": "Ava Raymond",
+    "title": "Job Title",
+    "business": "REMOLD"
+  },
+  {
+    "id": 28,
+    "avatar": "./img/default.jpg",
+    "name": "Ware Yang",
+    "title": "Job Title",
+    "business": "MEDIFAX"
+  },
+  {
+    "id": 29,
+    "avatar": "./img/default.jpg",
+    "name": "Lauren Coleman",
+    "title": "Job Title",
+    "business": "ACCRUEX"
+  },
+  {
+    "id": 30,
+    "avatar": "./img/default.jpg",
+    "name": "Powers Maynard",
+    "title": "Job Title",
+    "business": "ZEDALIS"
+  },
+  {
+    "id": 31,
+    "avatar": "./img/default.jpg",
+    "name": "French Santana",
+    "title": "Job Title",
+    "business": "KONNECT"
+  },
+  {
+    "id": 32,
+    "avatar": "./img/default.jpg",
+    "name": "Wood Sykes",
+    "title": "Job Title",
+    "business": "CINASTER"
+  },
+  {
+    "id": 33,
+    "avatar": "./img/default.jpg",
+    "name": "Francis Butler",
+    "title": "Job Title",
+    "business": "QUAREX"
+  },
+  {
+    "id": 34,
+    "avatar": "./img/default.jpg",
+    "name": "Gay Gamble",
+    "title": "Job Title",
+    "business": "CENTREGY"
+  }
+]
