@@ -21,6 +21,14 @@ const ConnectionContainer = props => {
       <div className="ConnectionContainer ConnectionTitle">
         {connection.title}
       </div>
+      <div className="ConnectionContainer ConnectionBusiness">
+        <div className="ConnectionContainer ConnectionBusiness Icon">
+          <i className="material-icons">business</i>
+        </div>
+        <div className="ConnectionContainer ConnectionBusiness Business">
+          {connection.business}
+        </div>
+      </div>
       <div className="ConnectionContainer ConnectButtonContainer">
         <button className="ConnectionContainer ConnectButtonContainer ConnectButton" type="submit">Connect</button>
       </div>

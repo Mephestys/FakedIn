@@ -31,7 +31,6 @@
 
 .ConnectionContainer .AvatarContainer {
   width: 100%;
-  height: 60%;
   border: 0px;
   background-color: transparent;
 }
@@ -40,7 +39,6 @@
   width: 104px;
   height: 104px;
   border: 0px;
-  padding: 3px;
   border-radius: 50%;
   background-color: transparent;
 }
@@ -51,6 +49,7 @@
   height: 40px;
   border: 0px;
   background-color: transparent;
+  line-height: 12px;
 }
 
 .ConnectionContainer .ConnectionTitle {
@@ -60,6 +59,34 @@
   height: 40px;
   border: 0px;
   background-color: transparent;
+  line-height: 12px;
+  margin-bottom: 10px;
+}
+
+.ConnectionContainer .ConnectionBusiness {
+  display: flex;
+  width: 100%;
+  height: 30px;
+  flex-flow: row nowrap;
+  justify-content: center;
+  background: transparent;
+  border: 0;
+  font-size: 11px;
+  line-height: 12px;
+}
+
+.ConnectionContainer .material-icons {
+  font-size: 18px;
+}
+
+.ConnectionContainer .ConnectionBusiness .Icon {
+  height: 50%;
+  width: 16px;
+}
+
+.ConnectionContainer .ConnectionBusiness .Business {
+  height: 50%;
+  width: 80px;
 }
 
 .ConnectionContainer .ConnectButtonContainer {
