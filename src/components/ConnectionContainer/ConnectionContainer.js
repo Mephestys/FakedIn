@@ -23,7 +23,7 @@ const ConnectionContainer = props => {
       </div>
       <div className="ConnectionContainer ConnectionBusiness">
         <div className="ConnectionContainer ConnectionBusiness Icon">
-          <i className="material-icons">business</i>
+          <i className="ConnectionContainer material-icons">business</i>
         </div>
         <div className="ConnectionContainer ConnectionBusiness Business">
           {connection.business}
